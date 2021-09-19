@@ -16,7 +16,7 @@ Analyze videos from camera’s stations.
 
 Report to station manager and drivers in real time.
 
-![alt text](https://github.com/YB5/Safe-Station/blob/main/tech overview.png)
+![alt text](https://github.com/YB5/Safe-Station/blob/main/tech%20overview.png)
 
 Image Processing:
 
