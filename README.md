@@ -15,7 +15,7 @@ There’s a braking distance that doesn’t always prevent death.
 - Analyze videos from camera’s stations.
 
 - Report to station manager and drivers in real time.
-- 
+
 
 ## Tech overview
 ![alt text](https://github.com/YB5/Safe-Station/blob/main/tech%20overview.png)
@@ -55,6 +55,10 @@ There’s a braking distance that doesn’t always prevent death.
 2. Listening to PubNub channel and notify in UI.
 
 3. Display the video and image from S3 bucket.
+
+
+## the Team
+Naor Bar Kochva, Netanel Tzadok, Matan Omesi, Omer Hadad, Yaakov Brin
 
 
 ## What’s next?
