@@ -57,7 +57,7 @@ There’s a braking distance that doesn’t always prevent death.
 3. Display the video and image from S3 bucket.
 
 
-## the Team
+## The Team
 Naor Bar Kochva, Netanel Tzadok, Matan Omesi, Omer Hadad, Yaakov Brin
 
 
